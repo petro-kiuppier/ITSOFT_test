@@ -1,0 +1,7 @@
+venv/
+.git
+.idea/
+# Ignore created folders
+characters/
+locations/
+episodes/
